@@ -1,0 +1,15 @@
+# Todo Video — nunca subir llaves ni secretos
+*.keystore
+*.jks
+signing.properties
+release-signing-LOCAL-ONLY.md
+local.properties
+*.apk
+*.aab
+# Gradle / Android
+.gradle/
+build/
+app/build/
+*.iml
+.idea/
+.DS_Store
