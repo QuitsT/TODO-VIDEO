@@ -22,6 +22,10 @@ Todo Video es una app Android hecha por QuitsT: un descargador universal (estilo
 
 > La app se instala sobre la versión anterior y conserva tus descargas, carpetas y ajustes.
 
+## Tutorial
+
+¿Primera vez usando Todo Video? Lee el tutorial paso a paso: [TUTORIAL.md](TUTORIAL.md) — instalar, descargar un video, navegar sin anuncios, Mixes y playlists, reproducir y apoyar el proyecto.
+
 ## Uso personal y derechos
 
 - Descarga solo contenido tuyo o que tengas derecho a guardar para uso personal.
